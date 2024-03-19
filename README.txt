@@ -6,7 +6,7 @@ YOUTUBE LINK:
 
 INSTRUCTIONS:
     install psycopg2 using pip
-    run "python Cameron_Teed_Assigment_03_COMP3005"
+    run "python Cameron_Teed_Assigment_03_COMP3005.py"
     choose the number to select the functions
 
 SQL STATEMENTS:
